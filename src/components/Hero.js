@@ -41,7 +41,7 @@ const Hero = () => {
         </p>
         <div className="hero-buttons">
           <a 
-            href="https://wa.me/905545700490?text=Merhaba, bağış yapmak istiyorum." 
+            href="https://wa.me/905545373053?text=Merhaba, bağış yapmak istiyorum." 
             target="_blank" 
             rel="noopener noreferrer"
             className="btn btn-primary"

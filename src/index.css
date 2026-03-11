@@ -26,18 +26,3 @@ a {
 button {
   cursor: pointer;
 }
-
-/* Responsive utilities */
-@media (max-width: 768px) {
-  nav div[style*="display: flex"] {
-    display: none !important;
-  }
-  
-  nav button {
-    display: block !important;
-  }
-  
-  nav > div:last-child {
-    display: flex !important;
-  }
-}

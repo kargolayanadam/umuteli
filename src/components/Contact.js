@@ -11,7 +11,7 @@ const Contact = () => {
         Gönüllü olmak veya bağışta bulunmak için bizimle iletişime geçin. Birlikte daha fazla hayata dokunalım!
       </p>
       <a 
-        href="https://wa.me/905545700490?text=Merhaba, sizinle iletişime geçmek istiyorum." 
+        href="https://wa.me/905545373053?text=Merhaba, sizinle iletişime geçmek istiyorum." 
         target="_blank" 
         rel="noopener noreferrer"
         className="btn btn-contact"
